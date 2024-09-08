@@ -1,0 +1,22 @@
+Website - 2 Types
+---
+
+One Page
+Multi Page
+
+====
+
+Website - 2 Shapes
+---
+
+Boxed Layout
+Full Screen Layout
+
+
+
+Planning
+----
+
+Analysis
+
+h1
